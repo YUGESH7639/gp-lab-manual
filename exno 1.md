@@ -5,7 +5,7 @@ To implement various effects in a material such as emissive, roughness and metal
 properties in Unreal Engine.
 
 ## Procedure:
-1. Launch Unreal Engine and create/open a project.
+1.Launch Unreal Engine and create/open a project.
 
 2.Create a new material in the Content Browser.
 
